@@ -7,7 +7,7 @@ The workaround is to update Podman's virtual machine. Open a terminal to the vir
 podman machine ssh
 ```
 and edit /etc/containers/registries.conf by adding an entry for the concerned registry:
-``
+```
 sudo vi /etc/containers/registries.conf
 ```
 ```
