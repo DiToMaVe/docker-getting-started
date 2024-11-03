@@ -2,7 +2,6 @@
 
 This document explains how to set up a Flask WSGI application on a Gunicorn WSGI server in a Podman container and get access via localhost, see [Deploy Flask on Gunicorn (Red Hat)](https://developers.redhat.com/articles/2023/08/17/how-deploy-flask-application-python-gunicorn).
 
-- build/docker
 - api.py
 - boot.sh
 - Dockerfile
